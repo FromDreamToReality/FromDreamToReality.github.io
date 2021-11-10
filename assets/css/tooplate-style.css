@@ -98,7 +98,9 @@ html {
     clear: both;
 }
 
-.container {margin: 0 auto;}
+.container {
+	margin: 0 auto;
+}
 
 .top-header {
 	margin: 0;
